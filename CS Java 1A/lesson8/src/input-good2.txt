@@ -1,0 +1,28 @@
+7
+Oven Joy Bread
+0.99
+2
+Lucerne Milk
+2.29
+1
+Hormel Chili with Beans
+1.29
+3
+12-pack Blue Moon
+12.99
+1
+Organic Navel Oranges
+1.49
+2.5
+Granny Smith Apples
+1.09
+1.6
+Tillamook Greek Yogurt
+1.0
+6
+Heinz BBQ Sauce
+2.2
+2
+Best Food Mayonaise
+3.99
+1
